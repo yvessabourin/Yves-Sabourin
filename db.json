@@ -1,1 +1,11 @@
-{"id":99, "name":"gitHub test"}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello typicode"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
